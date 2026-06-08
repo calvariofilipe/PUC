@@ -11,10 +11,3 @@ O projeto foi desenvolvido como parte de uma atividade acadêmica de Machine Lea
 | `btc_binance_ml_dataset.csv` | Dataset final processado, usado no MVP de Machine Learning |
 | `gerar_dataset_binance_btc_ml.ipynb` | Notebook opcional que documenta, por transparência, como os dados foram baixados da Binance Public Data e transformados no CSV final; não é necessário para executar o MVP principal |
 | `MVP_ML_Analytics_20261_FilipeFCalvario.ipynb` | Notebook principal do MVP, com definição do problema, análise exploratória, modelagem, avaliação e conclusão |
-
-## Dataset
-
-O arquivo principal de dados é:
-
-```text
-btc_binance_ml_dataset.csv
